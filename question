@@ -1,4 +1,5 @@
+question {
 "text": "Was ist die Hauptstadt von Deutschland?",
 "options": ["Berlin", "Paris", "Madrid", "Rom"]
 "correct": 1
-
+}
